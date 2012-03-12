@@ -1,0 +1,2 @@
+put match.py in cgi-bin
+put index.html in your document root (probably htaccess after you install apache fresh). It replaces your old index.html
